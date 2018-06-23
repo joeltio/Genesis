@@ -1,4 +1,4 @@
-package genesis;
+package bot.genesis;
 
 import java.io.BufferedReader;
 import java.io.IOException;
