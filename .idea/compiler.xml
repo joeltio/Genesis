@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Genesis_main" target="1.8" />
+      <module name="Genesis_test" target="1.8" />
       <module name="Thingy_main" target="1.8" />
       <module name="Thingy_test" target="1.8" />
     </bytecodeTargetLevel>

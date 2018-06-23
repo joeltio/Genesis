@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Thingy.iml" filepath="$PROJECT_DIR$/Thingy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thingy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Thingy_main.iml" group="Thingy" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thingy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Thingy_test.iml" group="Thingy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Genesis.iml" filepath="$PROJECT_DIR$/.idea/modules/Genesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Genesis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Genesis_main.iml" group="Genesis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Genesis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Genesis_test.iml" group="Genesis" />
     </modules>
   </component>
 </project>
